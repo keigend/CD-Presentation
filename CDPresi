@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PowerPoint Presentation</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f4f4f4;
+        }
+        iframe {
+            width: 90%;
+            height: 80vh;
+            border: none;
+        }
+    </style>
+</head>
+<body>
+    <iframe src="https://universitysystemnh-my.sharepoint.com/personal/cas1209_usnh_edu/_layouts/15/Doc.aspx?sourcedoc={dd533028-cc1d-4e3a-bfe7-9d1decd3b2c8}&amp;action=embedview&amp;wdAr=1.3333333333333333" width="476px" height="288px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+    <iframe src="YOUR_ONEDRIVE_EMBED_LINK_HERE" allowfullscreen></iframe>
+</body>
+</html>
